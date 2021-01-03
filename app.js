@@ -32,7 +32,7 @@ const data =   {
 
 
 const jsonData = JSON.stringify(data);
-const url = "https://us2.api.mailchimp.com/3.0/lists/fce69824b5";
+const url = "here is the url api";
 const options = {
   method: "POST",
 here is the place for API KEY  
