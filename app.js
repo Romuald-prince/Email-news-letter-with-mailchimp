@@ -35,7 +35,7 @@ const jsonData = JSON.stringify(data);
 const url = "https://us2.api.mailchimp.com/3.0/lists/fce69824b5";
 const options = {
   method: "POST",
-  auth: "prince1:6baf2addae5d8b964b4299db2ea64869-us2",
+here is the place for API KEY  
 }
 
 
